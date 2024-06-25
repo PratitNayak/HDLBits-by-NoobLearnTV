@@ -1,7 +1,10 @@
-HDL-Bits-Solutions by NOOBLearn TV
+HDL-Bits-Solutions by **NOOBLearn TV**
 
-This is my repository containing solutions to the problem statements given in HDL Bits website. 
-It has 180 problems covering various aspects of Digital designing such as Flipflops, Latches, Combinational circuits, FSMs etc.
-I solved all of these LIVE on youtube, incase anyone wants to look at.
+This my solution set for the problem statements in HDL Bits site.
+Ther are ~180 Problems, I solved all of these LIVE on youtube, incase anyone wants to look at. 
+Website Link : https://hdlbits.01xz.net/wiki/Main_Page
+YT Link : https://www.youtube.com/watch?v=lin8Ynv90m0&list=PLwRa3ZY9yptzqdBLuPoEZ3h2vyUr5dCd2&pp=gAQBiAQB
 
-Link : https://hdlbits.01xz.net/wiki/Main_Page
+
+
+
